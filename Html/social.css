@@ -1,0 +1,37 @@
+@charset "utf-8";
+
+*
+        {
+            padding: 0px;
+            margin: 0px;
+            font-family: Arial, Helvetica, sans-serif;
+        }
+
+        body
+        {
+            text-align: center;
+        }
+
+        ::-webkit-scrollbar
+        {
+            width: 0px;
+            height: 0px;
+        }
+
+        img
+        {
+            width: 100vw;
+        }
+
+        a
+        {
+            display: block;
+            color: white;
+            background-color: darkred;
+            width: 100vw;
+            text-decoration: none;
+            padding-top: 20px;
+            padding-bottom: 20px;
+            text-align: center;
+            font-weight: bold;
+        }
