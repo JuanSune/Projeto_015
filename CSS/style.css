@@ -35,18 +35,35 @@ section#Telefone
     background-repeat: no-repeat;
 }
 
-iframe
-{
-    height: 500px;
-    width: 500px;  
-}
-
 section#Redes_Sociais img
-{
+{  
     border-radius: 50%;
-    display: block;
     margin: 10px;
     height: 50px;
-    width: 50px;
+}
+
+section#Redes_Sociais 
+{  
+    text-align: right;
+}
+
+section#Redes_Sociais img:hover
+{
+    border: 30px solid white;
+    transform:  translate(-3px,-3px);
+    box-shadow: 5px 5px 10px black;
+    transition: 1s;
+
+    
+}
+
+iframe#tela
+{
+    position: relative;
+    left: 22px;
+    bottom: -80px;
+    width: 267px;
+    height: 471px;
+
 }
 
