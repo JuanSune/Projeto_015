@@ -41,3 +41,12 @@ iframe
     width: 500px;  
 }
 
+section#Redes_Sociais img
+{
+    border-radius: 50%;
+    display: block;
+    margin: 10px;
+    height: 50px;
+    width: 50px;
+}
+
