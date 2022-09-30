@@ -49,10 +49,10 @@ section#Redes_Sociais
 
 section#Redes_Sociais img:hover
 {
-    border: 30px solid white;
+    border: 30px solid rgb(255, 255, 255);
     transform:  translate(-3px,-3px);
     box-shadow: 5px 5px 10px black;
-    transition: 1s;
+    transition: .7s;
 
     
 }
