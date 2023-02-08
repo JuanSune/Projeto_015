@@ -22,6 +22,7 @@ main
     height: 100vh;
     position: relative;
 }
+
 section#Telefone
 {
     position: absolute;
@@ -52,9 +53,7 @@ section#Redes_Sociais img:hover
     border: 30px solid rgb(255, 255, 255);
     transform:  translate(-3px,-3px);
     box-shadow: 5px 5px 10px black;
-    transition: .7s;
-
-    
+    transition: .7s;   
 }
 
 iframe#tela
@@ -64,6 +63,5 @@ iframe#tela
     bottom: -80px;
     width: 267px;
     height: 471px;
-
 }
 
